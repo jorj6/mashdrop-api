@@ -1,0 +1,17 @@
+{
+    "require": {
+        "eden/block": "1.0.5",
+        "eden/mysql": "1.0.3",
+        "eden/system": "1.0.3",
+        "eden/registry": "1.0.2",
+        "eden/image": "1.0.3",
+        "firebase/php-jwt": "^3.0",
+        "facebook/php-sdk-v4": "^5.0",
+        "stripe/stripe-php": "3.*",
+        "phpmailer/phpmailer": "^5.2",
+        "league/oauth2-client": "~1.0",
+        "ext-curl": "*",
+        "paypal/merchant-sdk-php":"*",
+        "predis/predis": "v1.0.3"
+    }
+}
